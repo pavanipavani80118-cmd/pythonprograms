@@ -1,0 +1,6 @@
+a=(2>a)
+b=(3>b)
+print("<=======Logical operation========>")
+print("Logical a and b:",a and b)
+print("Logical a or b:",a or b)
+print("Logical not a:",not a)
